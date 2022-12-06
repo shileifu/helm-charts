@@ -3,11 +3,11 @@ entries:
   kube-starrocks:
   - apiVersion: v2
     appVersion: 2.4.1
-    created: "2022-12-06T09:20:20.658136273Z"
+    created: "2022-12-06T09:25:35.739057439Z"
     description: kube-starrocks collects Kubernetes manifests, starrocks combined
       with documentation and scripts to provide easy to operate end-to-end Kubernetes
       cluster deploy starrocks using the starrocks operator.
-    digest: 7060d7777f9f40430b3871cd4bd387dd8d517e7c973d7f495ed4de50a0042943
+    digest: 536e92cc9a79cd73a8aa7368f61de46277eaebb58fc4c52d8e40f310ae086f3b
     home: https://github.com/StarRocks/starrocks-kubernetes-operator
     keywords:
     - operator
